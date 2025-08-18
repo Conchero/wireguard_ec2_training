@@ -1,6 +1,6 @@
 #!/bin/bash
 source config.sh
-source tools.sh
+source functions.sh
 
 
 sudo_check
