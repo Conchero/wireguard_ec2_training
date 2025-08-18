@@ -9,9 +9,9 @@ I decided to recreate his/her install.sh line by line to assimilate each cli
 ## Install Step
 * Go to AWS
 * Create EC2 instance with Ubuntu distro
-* install git <sudo apt-get update && sudo apt-get git-all> on the VM then clone this repo 
-* execute the install.sh
-* then enter <sudo wg> to see the created interface 
+* install git ```sudo apt-get update && sudo apt-get git-all``` on the VM then clone this repo 
+* execute the ```install.sh```
+* then enter ```sudo wg``` to see the created interface 
 
 ---
 
