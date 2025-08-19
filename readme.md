@@ -4,7 +4,7 @@ Largely inspired by [https://github.com/LINALIN1979/wireguard-on-ec2] works, Tha
 
 I didn't wanted to just fork his/her repository for training purpose so after analysing each .sh files
 
-I decided to recreate his/her install.sh line by line to assimilate each cli
+I decided to recreate his/her install.sh.
 
 ## Install Step
 * Go to AWS
